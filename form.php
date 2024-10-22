@@ -11,9 +11,6 @@
 <body>
     <!-- Form ini mengirimkan data ke form_action.php -->
     <form action="form_action.php" method="post">
-        <label for="id">ID :</label>
-        <input type="number" name="id" placeholder="ID" id="id">
-        <br>
         <label for="nama">Nama :</label>
         <input type="text" name="nama" placeholder="Nama" id="nama">
         <br>
